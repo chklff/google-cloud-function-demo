@@ -1,0 +1,6 @@
+Create a code for google cloud function, to:
+Upload file from URL provide in request, to the Google Drive folder which ID I will also provide, and I'll provide a new file name.  
+
+Also I will provide json with service user private key, in file key.json
+
+also I will need a package,json
