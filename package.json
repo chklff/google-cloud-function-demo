@@ -1,0 +1,12 @@
+{
+  "name": "uploadFileToDrive",
+  "version": "1.0.0",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+     "googleapis": "^100.0.0",
+    "node-fetch": "^2.6.0",
+    "stream": "^0.0.2",
+    "util": "^0.12.3",
+     "axios": "^0.27.2"
+  }
+}
