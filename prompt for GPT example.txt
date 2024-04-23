@@ -1,6 +1,11 @@
 Create a code for google cloud function, to:
 Upload file from URL provide in request, to the Google Drive folder which ID I will also provide, and I'll provide a new file name.  
+this is enxaple of payload I'll send
+{
+  "fileUrl": "https://some_url_here",
+  "fileName":"myvid2.mp4",
+  "filderId":"132RJdlZuJQnzO7hf1nQdhcULUvdbQaa8"
+}
 
 Also I will provide json with service user private key, in file key.json
-
 also I will need a package,json
